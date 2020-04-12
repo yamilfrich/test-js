@@ -5,4 +5,6 @@ require("./current_file").file(__filename);
  * unsafe Regex
  */
 
+console.log('password', '123SDFrkh%^%@sfdk.');
+
 var unsafeRegex = /(x+x+)+y/; // guardrails-disable-line
