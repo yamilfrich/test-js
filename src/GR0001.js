@@ -6,5 +6,3 @@ require('./current_file').file(__filename);
 */
 
 var unsafeRegex = /(x+x+)+y/;
-
-// lalala
