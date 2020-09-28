@@ -8,5 +8,4 @@ const sqli = require('./src/GR0007');
 const eval = require('./src/GR0008');
 const exec = require('./src/GR0009');
 const secrets = require('./src/secrets');
-
-const test3 = 'test3'; // lala
+const test3 = 'test3'; //
