@@ -1,3 +1,4 @@
+// lala
 require('./current_file').file(__filename);
 
 /*
