@@ -1,3 +1,4 @@
+// test yam 1
 require('./current_file').file(__filename);
 
 /*
