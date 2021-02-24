@@ -1,6 +1,6 @@
 require('./current_file').file(__filename);
 
-// test 2
+// test 3
 
 let com = '/bin/echo lol';
 var child = require('child_process'); 
