@@ -4,4 +4,4 @@ let com = '/bin/echo lol';
 var child = require('child_process'); 
 child.exec(com);
 
-// test all vulns 4
+// test all vulns 5
