@@ -7,3 +7,5 @@ let req = { body: { evil: '1+1' } };
 
 // Case 2: (MemberExpression)
 eval(req.body.evil);
+
+// test all vulns 1
