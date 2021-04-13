@@ -1,6 +1,6 @@
 require('./current_file').file(__filename);
 
-// test 3
+// test 4
 // add
 // 3
 // lines
