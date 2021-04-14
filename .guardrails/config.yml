@@ -2,3 +2,4 @@
 report:
   pullRequest: 
     findings: "onAllFiles"
+    paranoid: true
