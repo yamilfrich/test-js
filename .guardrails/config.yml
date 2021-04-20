@@ -1,4 +1,4 @@
 report:
   pullRequest:
     findings: "onAllFiles"
-    paranoid: false
+    paranoid: true
