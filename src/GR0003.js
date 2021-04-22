@@ -6,4 +6,6 @@ require('./current_file').file(__filename);
 */
 
 // XXX Can not find any evidence of escapeMarkup in the mustache.js package.
-// object.escapeMarkup = false
+object.escapeMarkup = false
+
+// test 1

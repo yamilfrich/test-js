@@ -7,3 +7,4 @@ require('./current_file').file(__filename);
 
 var newUnsafeRegex = new RegExp('(x+x+)+y');
 
+// test 1
