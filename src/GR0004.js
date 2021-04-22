@@ -7,3 +7,5 @@ require('./current_file').file(__filename);
 
 var Handlebars = require('handlebars');
 Handlebars.SafeString("<button>I agree I</button>")
+
+// test
