@@ -7,4 +7,4 @@ require('./current_file').file(__filename);
 
 var unsafeRegex = /(x+x+)+y/;
 
-// test severity 13
+// test severity 14
