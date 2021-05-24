@@ -12,3 +12,5 @@ var a = new Buffer('test')
 * new Buffer with array
 */
 var a = new Buffer([1, 2, 3])
+
+// test
