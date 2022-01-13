@@ -11,5 +11,6 @@ var id = 10;
 var query = 'SELECT * from user where id=' + req.body.login + ';';
 
 // test failure
-// first edit
-// second edit
+// first edit (failure)
+// second edit (pending)
+// third edit (error)
