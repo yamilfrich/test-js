@@ -9,3 +9,5 @@ let req = { body: { login: 'nope' } };
 
 var id = 10;
 var query = 'SELECT * from user where id=' + req.body.login + ';';
+
+// test failure
