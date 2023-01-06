@@ -13,4 +13,4 @@ Todo:
 ## Secrets
 xxxx
 
-- test 2 shouldn't show checks
+- test 2 now it should show
