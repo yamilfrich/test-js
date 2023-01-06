@@ -12,3 +12,5 @@ Todo:
 
 ## Secrets
 xxxx
+
+- test 3 (shouldn't report because of disabled on repo level)
