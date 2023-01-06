@@ -12,3 +12,5 @@ Todo:
 
 ## Secrets
 xxxx
+
+- test 2 shouldn't show checks
